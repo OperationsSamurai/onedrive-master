@@ -6,7 +6,7 @@ Co-authored by Microsoft 365 Copilot - Derek's Subscription
 Defines system function and operational role.
 
 ## Scope
-Single-responsibility repository aligned with ITIL v5 practices.
+Single responsibility repository aligned with ITIL v5 practices.
 
 ## Operation
 Execute → Verify → Report → Remediate (if FAIL > 0)
